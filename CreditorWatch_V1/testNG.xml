@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My Creditor Watch" parallel="false">
+
+	<test name="Test1">
+		<classes>
+			<class name="com.testCase.TC_Validate_Anchor"/>
+		</classes>
+	</test>
+</suite>
